@@ -66,6 +66,8 @@ A = [
 
 I'll create a Python file that implements these concepts from scratch, and then explain the math:
 
+https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/01_vectors_and_matrices.py
+
 
 
 
