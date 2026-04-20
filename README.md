@@ -44,9 +44,29 @@ Linear algebra is the language of AI. Everything from image processing to neural
 
 A vector is an ordered list of numbers. Think of it as a point in space or a direction.
 
-Example
+Example:
 
 v = [1, 2, 3]  # A 3D vector
+
+
+### Concept 2: What is a Matrix?
+
+A matrix is a 2D array of numbers arranged in rows and columns.
+
+Example:
+
+A = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9]
+]
+# This is a 3x3 matrix (3 rows, 3 columns)
+
+### Now Let's Code It Together
+
+I'll create a Python file that implements these concepts from scratch, and then explain the math:
+
+
 
 
 
