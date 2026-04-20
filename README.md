@@ -24,7 +24,11 @@
 
 
 
-Phase 1: Linear Algebra - Foundation of AI
+
+
+###Phase 1: Linear Algebra - Foundation of AI
+
+Linear algebra is the language of AI. Everything from image processing to neural networks relies on it. 
 
 
 
