@@ -31,7 +31,12 @@
 Linear algebra is the language of AI. Everything from image processing to neural networks relies on it. 
 
 
-### What we'll cover
+### What we'll cover:
+
+1.### Vectors & Matrices - The building blocks
+2.### Matrix Operations - Addition, multiplication, transposition
+3.### Dot Products & Vector Spaces - Understanding relationships
+4.### Matrix Decompositions - Breaking down complex data
 
 
 
