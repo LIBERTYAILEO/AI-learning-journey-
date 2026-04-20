@@ -31,6 +31,8 @@
 Linear algebra is the language of AI. Everything from image processing to neural networks relies on it. 
 
 
+### What we'll cover
+
 
 
 
