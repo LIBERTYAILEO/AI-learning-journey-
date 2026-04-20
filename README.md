@@ -24,6 +24,11 @@
 
 
 
+Phase 1: Linear Algebra - Foundation of AI
+
+
+
+
 
         
     
