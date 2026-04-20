@@ -40,6 +40,14 @@ Linear algebra is the language of AI. Everything from image processing to neural
 
 ### Let's Start: Vectors & Matrices 
 
+### Concept 1: What is a Vector?
+
+A vector is an ordered list of numbers. Think of it as a point in space or a direction.
+
+Example
+
+v = [1, 2, 3]  # A 3D vector
+
 
 
 
