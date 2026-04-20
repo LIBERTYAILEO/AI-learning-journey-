@@ -38,6 +38,8 @@ Linear algebra is the language of AI. Everything from image processing to neural
 3. ### Dot Products & Vector Spaces - Understanding relationships
 4. ### Matrix Decompositions - Breaking down complex data
 
+### Let's Start: Vectors & Matrices 
+
 
 
 
