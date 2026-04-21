@@ -26,7 +26,7 @@
 
 
 
-### Phase 1: Linear Algebra - Foundation of AI
+## Phase 1: Linear Algebra - Foundation of AI
 
 Linear algebra is the language of AI. Everything from image processing to neural networks relies on it. 
 
@@ -89,11 +89,11 @@ Imagine you want to classify a handwritten digit (0-9).
 
 
 
-### Image pixel values: 
+Image pixel values: 
 
 [0.5, 0.9, 0.2, 0.1, 0.8, ...]  (784 values for 28x28 image)
 
-### Neural Network weights: 
+Neural Network weights: 
 
 [0.3, -0.5, 0.7, 0.2, 0.1, ...]
 
@@ -145,5 +145,11 @@ Dot Product = (0.9×0.8) + (0.1×0.1) + (0.2×0.1) = 0.73
 High score → Recommend this movie!
 
 ```
+
+### Now Let's Code This: Build a Simple Neural Network Layer
+
+Let me create a file that shows dot products in action:
+
+
 
         
