@@ -91,7 +91,7 @@ Imagine you want to classify a handwritten digit (0-9).
 
 [0.5, 0.9, 0.2, 0.1, 0.8, ...]  (784 values for 28x28 image)
 
-Neural Network weights: 
+### Neural Network weights: 
 
 [0.3, -0.5, 0.7, 0.2, 0.1, ...]
 
