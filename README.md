@@ -101,9 +101,8 @@ Imagine you want to classify a handwritten digit (0-9).
 Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ... 
        = 0.15 - 0.45 + 0.14 + ...
        = Some number that says "This looks like a 3"
-
-'''
-'''
+```
+```
 
 The neural network learned weights that, when dot-producted with image pixels, give predictions!
 
