@@ -150,6 +150,8 @@ High score → Recommend this movie!
 
 Let me create a file that shows dot products in action:
 
+https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/02_dot_product_in_neural_networks.py
+
 
 
         
