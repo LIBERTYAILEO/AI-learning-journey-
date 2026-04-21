@@ -74,6 +74,12 @@ https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/01_vectors_and_ma
 
 ### The Big Picture:
 
+Dot products are the fundamental operation that makes neural networks work. Every prediction, every classification, every decision an AI model makes comes down to dot products.
+
+
+### Let me show you 3 concrete examples:
+
+
 
 
 
