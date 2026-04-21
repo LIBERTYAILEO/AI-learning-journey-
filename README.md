@@ -110,11 +110,6 @@ The neural network learned weights that, when dot-producted with image pixels, g
 In language models like ChatGPT:
 
 
-I'll help you format your README with better markdown syntax for code examples and other formatting options!
-
-For your code/vector example, here are several formatting approaches:
-
-## **Option 1: Code Block (Recommended for your case)**
 ```markdown
 ```
 Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
