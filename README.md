@@ -109,6 +109,24 @@ The neural network learned weights that, when dot-producted with image pixels, g
 
 In language models like ChatGPT:
 
+
+'''
+  markdown
+'''
+Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
+Word "Queen":   [0.25, 0.48, -0.28, 0.12, ...]
+
+Dot Product = High score → Words are similar!
+
+Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
+Word "Banana":  [0.01, -0.9, 0.7, -0.5, ...]
+
+Dot Product = Low score → Words are different
+
+'''
+'''
+
+
     
         
         
