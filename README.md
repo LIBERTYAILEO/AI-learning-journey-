@@ -101,6 +101,13 @@ Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ...
        = Some number that says "This looks like a 3"
 
 
+The neural network learned weights that, when dot-producted with image pixels, give predictions!
+
+
+### Example 2: Similarity Between Words (NLP)
+
+
+In language models like ChatGPT:
 
     
         
