@@ -85,8 +85,8 @@ Dot products are the fundamental operation that makes neural networks work. Ever
 
 Imagine you want to classify a handwritten digit (0-9).
 
-'''
-'''
+```markdown
+```
 
 
 ### Image pixel values: 
