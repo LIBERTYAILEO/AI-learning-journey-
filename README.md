@@ -69,6 +69,10 @@ I'll create a Python file that implements these concepts from scratch, and then 
 https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/01_vectors_and_matrices.py
 
 
+### Why Dot Products Matter in AI
+
+
+### The Big Picture:
 
 
 
