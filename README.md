@@ -126,4 +126,25 @@ Word "Banana":  [0.01, -0.9, 0.7, -0.5, ...]
 Dot Product = Low score → Words are different
 ```
 ```
+
+Dot products measure how related two concepts are!
+
+
+### Example 3: Recommendation Systems (Netflix, YouTube)
+
+
+```
+```
+User preferences: [likes_action, likes_romance, likes_horror, ...]
+                = [0.9, 0.1, 0.2]
+
+Movie characteristics: [is_action, is_romance, is_horror, ...]
+                     = [0.8, 0.1, 0.1]
+
+Dot Product = (0.9×0.8) + (0.1×0.1) + (0.2×0.1) = 0.73
+
+High score → Recommend this movie!
+
+```
+```
         
