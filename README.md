@@ -87,11 +87,16 @@ Imagine you want to classify a handwritten digit (0-9).
 
 
 
-### Image pixel values: [0.5, 0.9, 0.2, 0.1, 0.8, ...]  (784 values for 28x28 image)
+### Image pixel values: 
 
-### Neural Network weights: [0.3, -0.5, 0.7, 0.2, 0.1, ...]
+[0.5, 0.9, 0.2, 0.1, 0.8, ...]  (784 values for 28x28 image)
 
-### Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ... 
+Neural Network weights: 
+
+[0.3, -0.5, 0.7, 0.2, 0.1, ...]
+
+
+Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ... 
        = 0.15 - 0.45 + 0.14 + ...
        = Some number that says "This looks like a 3"
 
