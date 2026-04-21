@@ -134,6 +134,7 @@ Dot products measure how related two concepts are!
 
 
 ```
+liberty 
 ```
 User preferences: [likes_action, likes_romance, likes_horror, ...]
                 = [0.9, 0.1, 0.2]
