@@ -69,7 +69,7 @@ I'll create a Python file that implements these concepts from scratch, and then 
 ### Link 🔗 to Code Below : 
 https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/01_vectors_and_matrices.py
 
-```
+`````python 
 """
 Phase 1: Linear Algebra Basics
 Module 1: Vectors and Matrices
@@ -330,7 +330,7 @@ Dot products are the fundamental operation that makes neural networks work. Ever
 
 Imagine you want to classify a handwritten digit (0-9).
 
-```
+`````
 
 
 
@@ -346,7 +346,7 @@ Neural Network weights:
 Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ... 
        = 0.15 - 0.45 + 0.14 + ...
        = Some number that says "This looks like a 3"
-```
+`````python 
 
 The neural network learned weights that, when dot-producted with image pixels, give predictions!
 
@@ -357,7 +357,7 @@ The neural network learned weights that, when dot-producted with image pixels, g
 In language models like ChatGPT:
 
 
-```
+`````
 
 Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
 Word "Queen":   [0.25, 0.48, -0.28, 0.12, ...]
@@ -368,7 +368,7 @@ Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
 Word "Banana":  [0.01, -0.9, 0.7, -0.5, ...]
 
 Dot Product = Low score → Words are different
-```
+`````pyton 
 
 
 Dot products measure how related two concepts are!
@@ -398,7 +398,7 @@ Let me create a file that shows dot products in action:
 https://github.com/LIBERTYAILEO/AI-learning-journey-/blob/main/02_dot_product_in_neural_networks.py
 
 
-````
+`````python 
 """
 Phase 1: Linear Algebra - Application
 Module 2: Dot Products in Neural Networks
@@ -723,7 +723,7 @@ if __name__ == "__main__":
     Dot product is the UNIVERSAL OPERATION that makes AI work!
     """) 
 
-```` 
+`````
 
 ### Deep Dive: Magnitude, Normalization & Cosine Similarity
 
