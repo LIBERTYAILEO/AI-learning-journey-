@@ -311,7 +311,8 @@ if __name__ == "__main__":
     print("Why? First element = (1*1 + 2*3 + 3*5) = 22")
     
     print("\n" + "=" * 60)
-```
+
+`````
 
 
 ### Why Dot Products Matter in AI
@@ -330,7 +331,7 @@ Dot products are the fundamental operation that makes neural networks work. Ever
 
 Imagine you want to classify a handwritten digit (0-9).
 
-`````
+`````python 
 
 
 
@@ -346,7 +347,8 @@ Neural Network weights:
 Output = Dot Product = (0.5×0.3) + (0.9×-0.5) + (0.2×0.7) + ... 
        = 0.15 - 0.45 + 0.14 + ...
        = Some number that says "This looks like a 3"
-`````python 
+`````
+
 
 The neural network learned weights that, when dot-producted with image pixels, give predictions!
 
@@ -357,7 +359,7 @@ The neural network learned weights that, when dot-producted with image pixels, g
 In language models like ChatGPT:
 
 
-`````
+`````python 
 
 Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
 Word "Queen":   [0.25, 0.48, -0.28, 0.12, ...]
@@ -368,7 +370,7 @@ Word "King":    [0.2, 0.5, -0.3, 0.1, ...]
 Word "Banana":  [0.01, -0.9, 0.7, -0.5, ...]
 
 Dot Product = Low score → Words are different
-`````pyton 
+`````
 
 
 Dot products measure how related two concepts are!
@@ -377,7 +379,7 @@ Dot products measure how related two concepts are!
 ### Example 3: Recommendation Systems (Netflix, YouTube)
 
 
-```
+`````python 
 
 User preferences: [likes_action, likes_romance, likes_horror, ...]
                 = [0.9, 0.1, 0.2]
@@ -389,7 +391,7 @@ Dot Product = (0.9×0.8) + (0.1×0.1) + (0.2×0.1) = 0.73
 
 High score → Recommend this movie!
 
-```
+`````
 
 ### Now Let's Code This: Build a Simple Neural Network Layer
 
